@@ -6,5 +6,5 @@ This is the overview of the project, there are four tables on display and it inc
 * A new Student can be inserted by clicking the insert button under the student table, then user is prompted with a form to fill out the student information
 
 
-![Insert-Student]()
+![Insert-Student](images/Insert-Student.PNG)
 
