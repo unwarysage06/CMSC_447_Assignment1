@@ -8,3 +8,6 @@ This is the overview of the project, there are four tables on display and it inc
 
 ![Insert-Student](images/Insert-Student.PNG)
 
+* After the user fills out the form and inserts the student, the new student will be inserted into the table and also displayed by the table.
+
+![Student-Inserted]()
