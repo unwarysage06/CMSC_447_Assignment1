@@ -4,4 +4,7 @@ This is the overview of the project, there are four tables on display and it inc
 ## How the application Works:
 * A student table contains the name, number or credits and id of that particular student.
 * A new Student can be inserted by clicking the insert button under the student table, then user is prompted with a form to fill out the student information
-![In
+
+
+![Insert-Student]()
+
