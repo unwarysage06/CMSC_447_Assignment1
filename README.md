@@ -11,3 +11,17 @@ This is the overview of the project, there are four tables on display and it inc
 * After the user fills out the form and inserts the student, the new student will be inserted into the table and also displayed by the table.
 
 ![Student-Inserted](images/Student-Inserted.PNG)
+
+
+* An Insrtuctor table contains the name, course department and id of that particular instructor.
+* A new instructor can be inserted by clicking the insert button under the instructor table, then user is prompted with a form to fill out the instructor information
+
+
+![Insert-Instructor](images/Insert-Student.PNG)
+
+* After the user fills out the form and inserts the instructor, the new instructor will be inserted into the table and also displayed by the table.
+
+![Instructor-Inserted](images/Student-Inserted.PNG)
+
+
+
