@@ -64,3 +64,18 @@ This is the overview of the project, there are four tables on display and it inc
  Then Click on School database in order to access the tables of the database:
  
  ![DataBase](images/Database.png)
+ 
+ ## How to run the project(Step 2: Flask Installation)
+
+* Download Python(Include Pip): 
+* Install Flask with command: pip install Flask
+*  Install Marshmallow with command: pip install flask-marshmallow
+*  Install Flask CORS with command: pip install -U flask-cors
+*  Install SQLAlchemy with command: pip install Flask-SQLAlchemy
+*  Install mysqlclient with command: pip install mysqlcleint
+
+## How to run the project(Step 3: React Installation with Node)
+* Install node js : https://nodejs.org/en/download/
+* Install react : https://www.liquidweb.com/kb/install-react-js-windows/#:~:text=1%20To%20get%20started%2C%20we%20need%20to%20open,project%20and%20update%20the%20package.json%20file%20with%20dependencies.
+
+## 
