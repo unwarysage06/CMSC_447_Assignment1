@@ -51,6 +51,26 @@ This is the overview of the project, there are four tables on display and it inc
 
 ![Grade](images/Grade.png)
 
+* Update for all tables works in a similar manner in that user clicks update and a form pops up and the user can update the particular object
+* Example for Update:
+* Click on the Update button and this form shows up:
+
+![Update]()
+
+
+* Then the particular object is updated and it works in the same manner for all the other tables:
+
+* The result After update is implemented:
+
+![Update2]()
+
+
+* To delete for all tables click on the delete button like this:
+![Delete]()
+* Then the object will be deleted:
+![Delete2]()
+
+
 ## How to run the project(Step 1: Set Up Database)
 
  Start By downloading Xampp link: https://www.apachefriends.org/download.html
