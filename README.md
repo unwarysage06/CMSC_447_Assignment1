@@ -63,6 +63,8 @@ This is the overview of the project, there are four tables on display and it inc
  
  Then Click on School database in order to access the tables of the database:
  
+ If student database doesn't exist create a database named student(neccessary for the code to work)
+ 
  ![DataBase](images/Database.png)
  
  ## How to run the project(Step 2: Flask Installation)
@@ -92,3 +94,6 @@ This is the overview of the project, there are four tables on display and it inc
 * Next to run the backend code run the following commands(run it simultaneously with the frontend in two different terminals)
 
 ![Backend](images/Backend.PNG)
+## Author
+
+* Ulfina Wakjira
