@@ -61,4 +61,4 @@ This is the overview of the project, there are four tables on display and it inc
  Then to run the Database on web browser go to this link:  http://localhost/phpmyadmin/
  
  Then Click on School database in order to access the tables of the database:
- ![DataBase]()
+ ![DataBase](images/Database.png)
