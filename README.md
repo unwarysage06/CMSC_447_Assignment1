@@ -47,4 +47,7 @@ This is the overview of the project, there are four tables on display and it inc
 * As seen above only the list of the courses that already exist are apart of the options
 
 * Once the student and course are inserted here is the result:
-![Grade]()
+
+
+![Grade](![image](https://user-images.githubusercontent.com/54700463/160728095-6a206a57-a0a5-48e6-98e5-4c093027740c.png)
+)
