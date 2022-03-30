@@ -50,3 +50,6 @@ This is the overview of the project, there are four tables on display and it inc
 
 
 ![Grade](images/Grade.png)
+
+## How to run the project
+
