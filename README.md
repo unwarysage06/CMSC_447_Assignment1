@@ -23,5 +23,10 @@ This is the overview of the project, there are four tables on display and it inc
 
 ![Instructor-Inserted](images/Instructor-Inserted.PNG)
 
+* A course contains the the id of the course, the title of the course, and the Instructor of the course
+* There is one to many relationship between the course and Instructor so in the context of this application that means that in order for a course to be inserted into the there needs to be a instructor that can teach that course
+* Therefore in the application the user can only insert a course from the list of instructors that are available, and here is how it looks
+
+![Insert-Course]()
 
 
