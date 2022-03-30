@@ -90,4 +90,5 @@ This is the overview of the project, there are four tables on display and it inc
 ![Activate](images/Activate.PNG)
 
 * Next to run the backend code run the following commands(run it simultaneously with the frontend in two different terminals)
-![Backend]()
+
+![Backend](images/Backend.PNG)
