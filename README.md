@@ -42,7 +42,7 @@ This is the overview of the project, there are four tables on display and it inc
 
 * As seen above only the list of the Students that already exist are apart of the options
 
-![List-Course]()
+![List-Course](images/List-Courses.png)
 
 * As seen above only the list of the courses that already exist are apart of the options
 
