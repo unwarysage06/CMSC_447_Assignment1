@@ -78,4 +78,8 @@ This is the overview of the project, there are four tables on display and it inc
 * Install node js : https://nodejs.org/en/download/
 * Install react : https://www.liquidweb.com/kb/install-react-js-windows/#:~:text=1%20To%20get%20started%2C%20we%20need%20to%20open,project%20and%20update%20the%20package.json%20file%20with%20dependencies.
 
-## 
+## How to run the project(Step 3: Run the Application)
+* Once everything is downloaded open the project file named Test 1 on visual studio or and application like that 
+* Next to run the the frontend portion of the lab cd into the frontend folder like this:
+
+![Frontend]()
