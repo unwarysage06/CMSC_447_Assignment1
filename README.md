@@ -49,5 +49,4 @@ This is the overview of the project, there are four tables on display and it inc
 * Once the student and course are inserted here is the result:
 
 
-![Grade](![image](https://user-images.githubusercontent.com/54700463/160728095-6a206a57-a0a5-48e6-98e5-4c093027740c.png)
-)
+![Grade](images/Grade.png)
