@@ -55,20 +55,23 @@ This is the overview of the project, there are four tables on display and it inc
 * Example for Update:
 * Click on the Update button and this form shows up:
 
-![Update]()
+![Update](images/Update1.PNG)
 
 
 * Then the particular object is updated and it works in the same manner for all the other tables:
 
 * The result After update is implemented:
 
-![Update2]()
+![Update2](images/Update2.PNG)
 
 
 * To delete for all tables click on the delete button like this:
-![Delete]()
+
+
+![Delete](images/Delete1.png)
 * Then the object will be deleted:
-![Delete2]()
+
+![Delete2](images/Delete2.png)
 
 
 ## How to run the project(Step 1: Set Up Database)
