@@ -30,7 +30,7 @@ This is the overview of the project, there are four tables on display and it inc
 ![Insert-Course](images/Insert-Course.png)
 
 * As seen by the image the user is only able to insert an instructor from the list of instructors table and cannot just insert and random instructor.
-* Here is the final product
+* Here is the final result
 
 ![Course-Inserted](images/Course-Inserted.PNG)
 
