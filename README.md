@@ -27,6 +27,11 @@ This is the overview of the project, there are four tables on display and it inc
 * There is one to many relationship between the course and Instructor so in the context of this application that means that in order for a course to be inserted into the there needs to be a instructor that can teach that course
 * Therefore in the application the user can only insert a course from the list of instructors that are available, and here is how it looks
 
-![Insert-Course]()
+![Insert-Course](images/Insert-Course.png)
+
+* As seen by the image the user is only able to insert an instructor from the list of instructors table and cannot just insert and random instructor.
+* Here is the final product
+
+![Course-Inserted}()
 
 
