@@ -82,4 +82,9 @@ This is the overview of the project, there are four tables on display and it inc
 * Once everything is downloaded open the project file named Test 1 on visual studio or and application like that 
 * Next to run the the frontend portion of the lab cd into the frontend folder like this:
 
-![Frontend]()
+![Frontend](images/Frontend.PNG)
+
+* Follow these commands to run the frontend of the code
+* Next to run the backend of the could, the virtual enviroment needs to be activated and it can be done with the following steps:
+
+![Activate]()
