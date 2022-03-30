@@ -51,5 +51,9 @@ This is the overview of the project, there are four tables on display and it inc
 
 ![Grade](images/Grade.png)
 
-## How to run the project
+## How to run the project(Step 1: Set Up Database)
 
+ Start By downloading Xampp link: https://www.apachefriends.org/download.html
+ 
+ Once Xampp is downloaded click start for APache and MYsql on the Xampp Application
+ ![Xampp]()
