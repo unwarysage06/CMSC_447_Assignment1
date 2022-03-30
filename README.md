@@ -87,4 +87,4 @@ This is the overview of the project, there are four tables on display and it inc
 * Follow these commands to run the frontend of the code
 * Next to run the backend of the could, the virtual enviroment needs to be activated and it can be done with the following steps:
 
-![Activate]()
+![Activate](images/Activate.PNG)
