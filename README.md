@@ -84,9 +84,8 @@ This is the overview of the project, there are four tables on display and it inc
  
  Then to run the Database on web browser go to this link:  http://localhost/phpmyadmin/
  
- Then Click on School database in order to access the tables of the database:
  
- If student database doesn't exist create a database named student(neccessary for the code to work)
+Then it is important to create a new database called 'School' for the project to work
  
  ![DataBase](images/Database.png)
  
@@ -117,6 +116,11 @@ This is the overview of the project, there are four tables on display and it inc
 * Next to run the backend code run the following commands(run it simultaneously with the frontend in two different terminals)
 
 ![Backend](images/Backend.PNG)
+
+## Important Step
+
+* Before running the backend in my_project file run python and do the following:
+* from app import db, then db.create_all()
 ## Author
 
 * Ulfina Wakjira
