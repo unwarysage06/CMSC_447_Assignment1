@@ -34,4 +34,10 @@ This is the overview of the project, there are four tables on display and it inc
 
 ![Course-Inserted](images/Course-Inserted.PNG)
 
+* The last table in the application is the Student/Course Table, and this table is a many-to-many table between the student and the course
+* For this application when a course inserted it prompts the user to insert the course id and student id and the grade of the student 
+* The course id and student id already exists and the user is required to select from that list
+
+
+
 
